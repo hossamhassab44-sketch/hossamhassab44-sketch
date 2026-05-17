@@ -6,9 +6,9 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Data+Pipelines+%7C+ETL+%7C+Data+Warehousing;Apache+Spark+%7C+Hadoop+%7C+Kafka+%7C+Airflow;SQL+%7C+Python+%7C+Data+Modeling+%7C+Big+Data;AWS+%7C+Azure+%7C+GCP+Data+Engineer;From+Raw+Data+%E2%86%92+Scalable+Data+Systems)](https://git.io/typing-svg)
  <p align="center">
  <a href="https://github.com/hossamhassab44-sketch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- <a href="https://www.linkedin.com/in/youssifhussein/">
+ <a href="https://www.linkedin.com/in/hossamhassab/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
- <a href="https://www.instagram.com/hossamhassab/">
+
  <!-- <img src="http://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
  <img src="https://komarev.com/ghpvc/?username=hossamhassab44-sketch&style=for-the-badge&color=7C3AED&label=VIEWS" alt="" /> -->
  <img src="https://img.shields.io/github/stars/hossamhassab44-sketch?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="" />
